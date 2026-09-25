@@ -1,0 +1,182 @@
+transaction_id,date,cost_center,category,vendor,amount_eur,currency,approved,description
+TXN-100001,2024-02-13,CC200,Marketing Campaigns,Vendor_07,2967.54,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100002,2024-02-03,CC400,Software,Vendor_03,6322.41,EUR,No,Software expense — CC400
+TXN-100003,2024-02-18,CC500,Travel,Vendor_06,17521.46,EUR,Yes,Travel expense — CC500
+TXN-100004,2024-03-31,CC500,Marketing Campaigns,Vendor_05,10476.87,EUR,Yes,Marketing Campaigns expense — CC500
+TXN-100005,2024-01-13,CC200,Office Supplies,Vendor_25,15424.66,EUR,Yes,Office Supplies expense — CC200
+TXN-100006,2024-03-26,CC400,Software,Vendor_18,6523.82,EUR,Yes,Software expense — CC400
+TXN-100007,2024-02-01,CC500,Software,Vendor_11,9707.69,EUR,No,Software expense — CC500
+TXN-100008,2024-03-12,CC400,Office Supplies,Vendor_15,11592.0,EUR,Yes,Office Supplies expense — CC400
+TXN-100009,2024-02-10,CC100,External Services,Vendor_26,14828.09,EUR,Yes,External Services expense — CC100
+TXN-100010,2024-03-13,CC100,External Services,Vendor_21,16453.82,EUR,Yes,External Services expense — CC100
+TXN-100011,2024-01-19,CC400,Training,Vendor_17,11642.76,EUR,Yes,Training expense — CC400
+TXN-100012,2024-03-15,CC200,Office Supplies,Vendor_26,7826.12,EUR,Yes,Office Supplies expense — CC200
+TXN-100013,2024-01-07,CC200,Software,Vendor_08,1818.19,EUR,Yes,Software expense — CC200
+TXN-100014,2024-03-17,CC200,Training,Vendor_30,7048.86,EUR,Yes,Training expense — CC200
+TXN-100015,2024-01-15,CC500,Personnel,Vendor_35,12309.04,EUR,Yes,Personnel expense — CC500
+TXN-100016,2024-01-21,CC300,Travel,Vendor_30,5424.3,EUR,Yes,Travel expense — CC300
+TXN-100017,2024-01-14,CC300,Software,Vendor_20,9236.73,EUR,Yes,Software expense — CC300
+TXN-100018,2024-03-08,CC200,Marketing Campaigns,Vendor_01,9800.95,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100019,2024-02-09,CC400,Software,Vendor_16,6661.06,EUR,Yes,Software expense — CC400
+TXN-100020,2024-01-09,CC200,Marketing Campaigns,Vendor_35,8850.63,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100021,2024-03-08,CC200,Infrastructure,Vendor_39,3139.26,EUR,No,Infrastructure expense — CC200
+TXN-100022,2024-03-26,CC200,External Services,Vendor_24,7302.06,EUR,No,External Services expense — CC200
+TXN-100023,2024-01-29,CC500,Infrastructure,Vendor_05,2353.87,EUR,Yes,Infrastructure expense — CC500
+TXN-100024,2024-01-01,CC100,External Services,Vendor_05,10674.23,EUR,Yes,External Services expense — CC100
+TXN-100025,2024-01-10,CC200,Travel,Vendor_33,15501.51,EUR,Yes,Travel expense — CC200
+TXN-100026,2024-01-17,CC300,Infrastructure,Vendor_37,4013.42,EUR,No,Infrastructure expense — CC300
+TXN-100027,2024-01-13,CC200,Infrastructure,Vendor_28,3589.3,EUR,Yes,Infrastructure expense — CC200
+TXN-100028,2024-03-27,CC400,Training,Vendor_07,13177.55,EUR,Yes,Training expense — CC400
+TXN-100029,2024-01-25,CC400,Marketing Campaigns,Vendor_13,2144.99,EUR,No,Marketing Campaigns expense — CC400
+TXN-100030,2024-01-10,CC200,Marketing Campaigns,Vendor_29,8434.78,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100031,2024-01-31,CC100,Personnel,Vendor_11,17448.13,EUR,No,Personnel expense — CC100
+TXN-100032,2024-01-08,CC400,Software,Vendor_11,7338.52,EUR,No,Software expense — CC400
+TXN-100033,2024-02-28,CC100,Training,Vendor_19,4920.61,EUR,No,Training expense — CC100
+TXN-100034,2024-02-07,CC500,Infrastructure,Vendor_14,2955.38,EUR,Yes,Infrastructure expense — CC500
+TXN-100035,2024-01-08,CC500,Personnel,Vendor_04,13513.96,EUR,No,Personnel expense — CC500
+TXN-100036,2024-03-06,CC500,Software,Vendor_06,1212.46,EUR,Yes,Software expense — CC500
+TXN-100037,2024-01-31,CC100,Travel,Vendor_26,12218.78,EUR,Yes,Travel expense — CC100
+TXN-100038,2024-01-06,CC500,External Services,Vendor_40,10504.76,EUR,Yes,External Services expense — CC500
+TXN-100039,2024-02-10,CC400,Marketing Campaigns,Vendor_16,3835.81,EUR,Yes,Marketing Campaigns expense — CC400
+TXN-100040,2024-02-10,CC400,Software,Vendor_05,5539.95,EUR,Yes,Software expense — CC400
+TXN-100041,2024-02-03,CC400,Software,Vendor_09,3994.15,EUR,Yes,Software expense — CC400
+TXN-100042,2024-01-21,CC100,External Services,Vendor_29,6777.58,EUR,Yes,External Services expense — CC100
+TXN-100043,2024-03-11,CC500,Personnel,Vendor_20,12087.97,EUR,Yes,Personnel expense — CC500
+TXN-100044,2024-03-11,CC200,Marketing Campaigns,Vendor_10,2105.24,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100045,2024-01-27,CC300,External Services,Vendor_17,12973.5,EUR,No,External Services expense — CC300
+TXN-100046,2024-02-24,CC300,Personnel,Vendor_18,1842.91,EUR,Yes,Personnel expense — CC300
+TXN-100047,2024-03-22,CC100,Marketing Campaigns,Vendor_17,13925.92,EUR,Yes,Marketing Campaigns expense — CC100
+TXN-100048,2024-03-29,CC400,Training,Vendor_10,2191.36,EUR,Yes,Training expense — CC400
+TXN-100049,2024-01-06,CC300,Software,Vendor_20,7850.2,EUR,Yes,Software expense — CC300
+TXN-100050,2024-02-01,CC100,Marketing Campaigns,Vendor_07,3939.36,EUR,Yes,Marketing Campaigns expense — CC100
+TXN-100051,2024-01-20,CC500,Training,Vendor_16,17534.3,EUR,Yes,Training expense — CC500
+TXN-100052,2024-02-12,CC200,Marketing Campaigns,Vendor_27,13310.85,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100053,2024-01-14,CC300,Software,Vendor_25,14215.27,EUR,Yes,Software expense — CC300
+TXN-100054,2024-02-14,CC400,Software,Vendor_20,16548.44,EUR,Yes,Software expense — CC400
+TXN-100055,2024-02-05,CC200,Personnel,Vendor_05,7292.69,EUR,Yes,Personnel expense — CC200
+TXN-100056,2024-03-09,CC300,Training,Vendor_22,12295.42,EUR,Yes,Training expense — CC300
+TXN-100057,2024-02-03,CC100,Office Supplies,Vendor_03,3378.51,EUR,Yes,Office Supplies expense — CC100
+TXN-100058,2024-02-10,CC500,Training,Vendor_28,6353.23,EUR,Yes,Training expense — CC500
+TXN-100059,2024-01-01,CC400,Software,Vendor_34,12816.38,EUR,Yes,Software expense — CC400
+TXN-100060,2024-03-26,CC300,Training,Vendor_22,1445.53,EUR,Yes,Training expense — CC300
+TXN-100061,2024-03-26,CC100,Office Supplies,Vendor_27,9226.78,EUR,Yes,Office Supplies expense — CC100
+TXN-100062,2024-03-26,CC400,Office Supplies,Vendor_25,3614.75,EUR,Yes,Office Supplies expense — CC400
+TXN-100063,2024-01-01,CC500,Office Supplies,Vendor_20,7428.14,EUR,Yes,Office Supplies expense — CC500
+TXN-100064,2024-02-11,CC200,Training,Vendor_30,10998.58,EUR,No,Training expense — CC200
+TXN-100065,2024-01-22,CC400,External Services,Vendor_06,14328.49,EUR,Yes,External Services expense — CC400
+TXN-100066,2024-01-31,CC500,Marketing Campaigns,Vendor_20,1862.29,EUR,Yes,Marketing Campaigns expense — CC500
+TXN-100067,2024-03-01,CC200,Marketing Campaigns,Vendor_40,4558.2,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100068,2024-03-30,CC400,Training,Vendor_25,10446.94,EUR,No,Training expense — CC400
+TXN-100069,2024-01-14,CC400,Software,Vendor_28,12439.68,EUR,Yes,Software expense — CC400
+TXN-100070,2024-01-16,CC200,Marketing Campaigns,Vendor_30,4635.73,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100071,2024-03-19,CC400,Marketing Campaigns,Vendor_33,16067.38,EUR,No,Marketing Campaigns expense — CC400
+TXN-100072,2024-03-01,CC500,Infrastructure,Vendor_29,16170.3,EUR,Yes,Infrastructure expense — CC500
+TXN-100073,2024-03-21,CC200,Office Supplies,Vendor_16,9479.14,EUR,Yes,Office Supplies expense — CC200
+TXN-100074,2024-02-12,CC400,Travel,Vendor_21,4373.99,EUR,Yes,Travel expense — CC400
+TXN-100075,2024-03-31,CC200,Marketing Campaigns,Vendor_14,12552.31,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100076,2024-01-08,CC400,Software,Vendor_14,8493.45,EUR,No,Software expense — CC400
+TXN-100077,2024-02-18,CC400,Personnel,Vendor_31,13827.58,EUR,Yes,Personnel expense — CC400
+TXN-100078,2024-02-23,CC300,Office Supplies,Vendor_35,13611.86,EUR,Yes,Office Supplies expense — CC300
+TXN-100079,2024-02-19,CC400,Software,Vendor_22,8844.43,EUR,No,Software expense — CC400
+TXN-100080,2024-03-09,CC200,Infrastructure,Vendor_02,17656.85,EUR,No,Infrastructure expense — CC200
+TXN-100081,2024-02-24,CC500,Personnel,Vendor_09,1694.26,EUR,No,Personnel expense — CC500
+TXN-100082,2024-02-28,CC200,Marketing Campaigns,Vendor_21,6026.88,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100083,2024-02-02,CC400,Office Supplies,Vendor_06,15008.25,EUR,No,Office Supplies expense — CC400
+TXN-100084,2024-02-14,CC100,Personnel,Vendor_15,17998.36,EUR,Yes,Personnel expense — CC100
+TXN-100085,2024-01-26,CC100,Personnel,Vendor_02,17103.09,EUR,Yes,Personnel expense — CC100
+TXN-100086,2024-01-28,CC200,Marketing Campaigns,Vendor_30,2236.13,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100087,2024-01-15,CC300,Software,Vendor_11,10984.89,EUR,Yes,Software expense — CC300
+TXN-100088,2024-03-14,CC100,Personnel,Vendor_25,16734.19,EUR,No,Personnel expense — CC100
+TXN-100089,2024-02-01,CC200,Travel,Vendor_07,14984.18,EUR,Yes,Travel expense — CC200
+TXN-100090,2024-03-13,CC500,Travel,Vendor_03,14372.84,EUR,Yes,Travel expense — CC500
+TXN-100091,2024-01-09,CC500,Training,Vendor_33,11975.08,EUR,Yes,Training expense — CC500
+TXN-100092,2024-01-14,CC100,Training,Vendor_28,14837.49,EUR,Yes,Training expense — CC100
+TXN-100093,2024-03-24,CC400,Software,Vendor_18,13261.56,EUR,No,Software expense — CC400
+TXN-100094,2024-02-11,CC400,Training,Vendor_16,10746.05,EUR,Yes,Training expense — CC400
+TXN-100095,2024-02-29,CC300,Infrastructure,Vendor_37,4540.77,EUR,No,Infrastructure expense — CC300
+TXN-100096,2024-02-11,CC300,Personnel,Vendor_12,8998.66,EUR,No,Personnel expense — CC300
+TXN-100097,2024-03-17,CC200,Marketing Campaigns,Vendor_18,6258.03,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100098,2024-02-22,CC500,External Services,Vendor_32,1723.91,EUR,Yes,External Services expense — CC500
+TXN-100099,2024-02-07,CC400,Infrastructure,Vendor_15,506.93,EUR,No,Infrastructure expense — CC400
+TXN-100100,2024-03-11,CC200,Office Supplies,Vendor_34,6768.56,EUR,Yes,Office Supplies expense — CC200
+TXN-100101,2024-02-09,CC400,Software,Vendor_17,8276.67,EUR,Yes,Software expense — CC400
+TXN-100102,2024-03-09,CC100,External Services,Vendor_12,5816.75,EUR,Yes,External Services expense — CC100
+TXN-100103,2024-03-08,CC200,Marketing Campaigns,Vendor_39,10694.65,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100104,2024-02-16,CC100,External Services,Vendor_12,5473.19,EUR,Yes,External Services expense — CC100
+TXN-100105,2024-01-07,CC100,Software,Vendor_36,5082.74,EUR,Yes,Software expense — CC100
+TXN-100106,2024-02-06,CC200,Marketing Campaigns,Vendor_31,418.32,EUR,No,Marketing Campaigns expense — CC200
+TXN-100107,2024-03-02,CC400,Software,Vendor_08,1114.51,EUR,Yes,Software expense — CC400
+TXN-100108,2024-01-07,CC400,Software,Vendor_10,11404.13,EUR,Yes,Software expense — CC400
+TXN-100109,2024-02-01,CC500,Office Supplies,Vendor_08,1716.22,EUR,No,Office Supplies expense — CC500
+TXN-100110,2024-02-18,CC500,External Services,Vendor_29,14007.35,EUR,No,External Services expense — CC500
+TXN-100111,2024-03-20,CC300,Training,Vendor_04,5635.77,EUR,Yes,Training expense — CC300
+TXN-100112,2024-01-31,CC200,Marketing Campaigns,Vendor_12,1645.14,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100113,2024-03-01,CC200,Marketing Campaigns,Vendor_19,12470.81,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100114,2024-02-28,CC200,Office Supplies,Vendor_05,12713.18,EUR,Yes,Office Supplies expense — CC200
+TXN-100115,2024-03-10,CC300,External Services,Vendor_15,7767.47,EUR,Yes,External Services expense — CC300
+TXN-100116,2024-01-22,CC300,Software,Vendor_20,1471.1,EUR,Yes,Software expense — CC300
+TXN-100117,2024-02-21,CC400,Travel,Vendor_18,5612.82,EUR,No,Travel expense — CC400
+TXN-100118,2024-02-11,CC400,Travel,Vendor_39,16031.73,EUR,Yes,Travel expense — CC400
+TXN-100119,2024-03-27,CC100,Travel,Vendor_37,4274.85,EUR,Yes,Travel expense — CC100
+TXN-100120,2024-01-23,CC300,Personnel,Vendor_31,13783.34,EUR,No,Personnel expense — CC300
+TXN-100121,2024-02-25,CC300,Software,Vendor_32,17945.63,EUR,Yes,Software expense — CC300
+TXN-100122,2024-01-14,CC400,Marketing Campaigns,Vendor_11,5914.84,EUR,Yes,Marketing Campaigns expense — CC400
+TXN-100123,2024-03-11,CC400,Software,Vendor_03,17024.45,EUR,No,Software expense — CC400
+TXN-100124,2024-01-15,CC100,Marketing Campaigns,Vendor_26,4692.7,EUR,Yes,Marketing Campaigns expense — CC100
+TXN-100125,2024-01-25,CC500,Infrastructure,Vendor_34,7555.81,EUR,Yes,Infrastructure expense — CC500
+TXN-100126,2024-01-07,CC500,Infrastructure,Vendor_14,11332.28,EUR,Yes,Infrastructure expense — CC500
+TXN-100127,2024-02-26,CC500,Software,Vendor_32,16712.58,EUR,Yes,Software expense — CC500
+TXN-100128,2024-02-09,CC100,External Services,Vendor_36,12834.13,EUR,Yes,External Services expense — CC100
+TXN-100129,2024-01-15,CC500,Training,Vendor_30,1859.12,EUR,Yes,Training expense — CC500
+TXN-100130,2024-03-31,CC200,Infrastructure,Vendor_18,5395.14,EUR,No,Infrastructure expense — CC200
+TXN-100131,2024-02-19,CC400,Software,Vendor_13,10012.52,EUR,Yes,Software expense — CC400
+TXN-100132,2024-02-23,CC100,Office Supplies,Vendor_22,13953.62,EUR,Yes,Office Supplies expense — CC100
+TXN-100133,2024-03-16,CC100,Office Supplies,Vendor_38,13123.71,EUR,No,Office Supplies expense — CC100
+TXN-100134,2024-03-11,CC200,Infrastructure,Vendor_35,6343.21,EUR,No,Infrastructure expense — CC200
+TXN-100135,2024-01-31,CC400,Marketing Campaigns,Vendor_37,17657.79,EUR,No,Marketing Campaigns expense — CC400
+TXN-100136,2024-03-31,CC200,Marketing Campaigns,Vendor_25,13455.75,EUR,No,Marketing Campaigns expense — CC200
+TXN-100137,2024-03-16,CC200,Infrastructure,Vendor_22,2447.18,EUR,Yes,Infrastructure expense — CC200
+TXN-100138,2024-01-19,CC400,Travel,Vendor_27,8333.32,EUR,Yes,Travel expense — CC400
+TXN-100139,2024-02-03,CC100,Infrastructure,Vendor_22,14111.15,EUR,No,Infrastructure expense — CC100
+TXN-100140,2024-03-09,CC100,Marketing Campaigns,Vendor_25,15371.68,EUR,Yes,Marketing Campaigns expense — CC100
+TXN-100141,2024-03-28,CC400,Personnel,Vendor_19,4378.91,EUR,Yes,Personnel expense — CC400
+TXN-100142,2024-03-22,CC100,Training,Vendor_07,17614.41,EUR,No,Training expense — CC100
+TXN-100143,2024-01-08,CC200,Office Supplies,Vendor_19,1018.64,EUR,Yes,Office Supplies expense — CC200
+TXN-100144,2024-03-08,CC300,Training,Vendor_27,2791.14,EUR,Yes,Training expense — CC300
+TXN-100145,2024-03-20,CC200,Marketing Campaigns,Vendor_16,15700.94,EUR,No,Marketing Campaigns expense — CC200
+TXN-100146,2024-03-22,CC500,Software,Vendor_17,4332.95,EUR,No,Software expense — CC500
+TXN-100147,2024-02-29,CC300,Personnel,Vendor_19,16200.57,EUR,Yes,Personnel expense — CC300
+TXN-100148,2024-03-16,CC100,Infrastructure,Vendor_20,17025.19,EUR,No,Infrastructure expense — CC100
+TXN-100149,2024-01-26,CC300,Infrastructure,Vendor_25,15246.41,EUR,No,Infrastructure expense — CC300
+TXN-100150,2024-02-15,CC100,External Services,Vendor_37,6988.28,EUR,Yes,External Services expense — CC100
+TXN-100151,2024-03-25,CC300,Personnel,Vendor_26,17607.41,EUR,Yes,Personnel expense — CC300
+TXN-100152,2024-03-04,CC100,Personnel,Vendor_19,16408.98,EUR,Yes,Personnel expense — CC100
+TXN-100153,2024-01-25,CC500,Marketing Campaigns,Vendor_40,4098.28,EUR,Yes,Marketing Campaigns expense — CC500
+TXN-100154,2024-02-09,CC200,Travel,Vendor_29,11704.86,EUR,Yes,Travel expense — CC200
+TXN-100155,2024-01-12,CC500,Marketing Campaigns,Vendor_19,13236.0,EUR,Yes,Marketing Campaigns expense — CC500
+TXN-100156,2024-02-16,CC400,Software,Vendor_34,14199.93,EUR,Yes,Software expense — CC400
+TXN-100157,2024-02-07,CC200,Office Supplies,Vendor_22,17006.54,EUR,Yes,Office Supplies expense — CC200
+TXN-100158,2024-03-27,CC400,Software,Vendor_26,17403.7,EUR,Yes,Software expense — CC400
+TXN-100159,2024-03-09,CC100,Training,Vendor_08,447.75,EUR,No,Training expense — CC100
+TXN-100160,2024-03-22,CC300,Office Supplies,Vendor_24,10605.17,EUR,Yes,Office Supplies expense — CC300
+TXN-100161,2024-03-12,CC200,Marketing Campaigns,Vendor_21,15939.38,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100162,2024-02-08,CC100,Infrastructure,Vendor_27,16387.1,EUR,Yes,Infrastructure expense — CC100
+TXN-100163,2024-03-04,CC200,Personnel,Vendor_08,5617.69,EUR,Yes,Personnel expense — CC200
+TXN-100164,2024-03-30,CC200,Marketing Campaigns,Vendor_35,6804.0,EUR,No,Marketing Campaigns expense — CC200
+TXN-100165,2024-03-24,CC500,Software,Vendor_07,15960.37,EUR,No,Software expense — CC500
+TXN-100166,2024-02-05,CC500,Training,Vendor_03,16915.14,EUR,Yes,Training expense — CC500
+TXN-100167,2024-02-16,CC200,Marketing Campaigns,Vendor_07,4402.8,EUR,Yes,Marketing Campaigns expense — CC200
+TXN-100168,2024-02-05,CC500,Marketing Campaigns,Vendor_13,1277.79,EUR,Yes,Marketing Campaigns expense — CC500
+TXN-100169,2024-03-17,CC400,Travel,Vendor_02,11622.34,EUR,Yes,Travel expense — CC400
+TXN-100170,2024-03-13,CC300,External Services,Vendor_14,17801.01,EUR,Yes,External Services expense — CC300
+TXN-100171,2024-01-30,CC500,External Services,Vendor_22,10637.62,EUR,Yes,External Services expense — CC500
+TXN-100172,2024-01-19,CC500,Personnel,Vendor_09,5135.49,EUR,Yes,Personnel expense — CC500
+TXN-100173,2024-01-02,CC200,Travel,Vendor_23,658.89,EUR,Yes,Travel expense — CC200
+TXN-100174,2024-02-03,CC500,Marketing Campaigns,Vendor_04,480.9,EUR,Yes,Marketing Campaigns expense — CC500
+TXN-100175,2024-02-16,CC400,Travel,Vendor_33,8677.18,EUR,Yes,Travel expense — CC400
+TXN-100176,2024-03-25,CC400,External Services,Vendor_34,971.9,EUR,Yes,External Services expense — CC400
+TXN-100177,2024-02-21,CC400,Software,Vendor_28,8725.88,EUR,Yes,Software expense — CC400
+TXN-100178,2024-03-18,CC400,Software,Vendor_10,1638.07,EUR,Yes,Software expense — CC400
+TXN-100179,2024-02-11,CC200,Office Supplies,Vendor_25,10619.49,EUR,Yes,Office Supplies expense — CC200
+TXN-100180,2024-03-24,CC400,Software,Vendor_36,12691.67,EUR,Yes,Software expense — CC400
+TXN-100181,2024-03-27,CC400,Software,Vendor_18,6523.82,EUR,Yes,Software expense — CC400
