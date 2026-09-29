@@ -13,32 +13,33 @@
 | Teil | Thema | Werkzeug | Dauer |
 |------|-------|----------|-------|
 | [Teil 1](#teil-1) | Excel-Budget verstehen & reparieren | `budget_tracker.xlsx` | ~30 min |
-| [Teil 2](#teil-2) | Python-Script debuggen & ausführen | `process_budget.py` | ~35 min |
+| [Teil 2](#teil-2) | Python-Script debuggen & ausführen *(optional, technisch)* | `process_budget.py` | ~35 min |
 | [Teil 3](#teil-3) | Guidelines-Check & Executive Summary | `reporting_guidelines.docx` | ~25 min |
 
 ---
 
 ## Vorbereitung
 
-### 1. Python installieren (falls noch nicht vorhanden)
+### 1. Workspace in IBM Bob öffnen
 
-Lade Python 3.10 oder neuer von [python.org/downloads](https://www.python.org/downloads/) herunter und installiere es.
-⚠️ Auf Windows: beim Installieren **"Add Python to PATH"** aktivieren.
+1. Lade die Lab-Materialien herunter — es gibt zwei Möglichkeiten:
 
-### 2. Repo einrichten
+   **Option A — ZIP herunterladen** *(kein Git erforderlich)*
+   Gehe auf [github.com/HenrikMader/FinanceBobathon](https://github.com/HenrikMader/FinanceBobathon), klicke auf **Code → Download ZIP** und entpacke das Archiv in einen Ordner auf deinem Rechner (z. B. `FinanceBobathon` auf dem Desktop).
 
-Öffne ein Terminal (macOS: Terminal-App, Windows: Eingabeaufforderung) und führe aus:
+   **Option B — Git Clone**
+   Falls Git noch nicht installiert ist, lade es kostenlos herunter:
+   - **Windows:** [git-scm.com/download/win](https://git-scm.com/download/win) → Installer ausführen, alle Standardeinstellungen übernehmen
+   - **macOS:** Terminal öffnen und `git --version` eingeben — macOS bietet die Installation automatisch an, falls Git fehlt
 
-```bash
-# Virtuelle Umgebung erstellen und aktivieren
-python3 -m venv .venv
-source .venv/bin/activate      # Windows: .venv\Scripts\activate
+   Öffne danach ein Terminal, navigiere in einen Ordner (z. B. Desktop) und führe aus:
+   ```bash
+   git clone https://github.com/HenrikMader/FinanceBobathon.git
+   ```
+   Der Ordner `FinanceBobathon` wird automatisch erstellt.
 
-# Abhängigkeiten installieren
-pip install -r requirements.txt
-```
-
-### 3. Workspace in IBM Bob öffnen
+2. Öffne IBM Bob und klicke auf **Open Folder** — wähle den soeben erstellten Ordner aus.
+3. Bob fragt, ob du dem Ordner vertrauen möchtest: Klicke oben auf **Manage** und dann auf **Trust** (ohne das funktionieren Bobs Werkzeuge nicht).
 
 Stelle sicher, dass folgende Dateien im Bob-Workspace sichtbar sind:
 
@@ -56,7 +57,7 @@ docs/
 
 ## Teil 1 — Excel: Budget-Datei verstehen & reparieren {#teil-1}
 
-**Lernziel:** Bob kann Office-Dateien lesen, Struktur erklären, Fehler finden und direkt korrigieren.
+**Lernziel:** Bob kann Excel-Dateien lesen, Struktur erklären, Fehler finden und direkt korrigieren.
 
 ---
 
@@ -106,9 +107,44 @@ docs/
 
 ---
 
-## Teil 2 — Python: Script debuggen & ausführen {#teil-2}
+## Teil 2 — Python: Script debuggen & ausführen *(optional)* {#teil-2}
+
+> 🛠️ **Dieser Teil richtet sich an Teilnehmer:innen mit etwas technischem Hintergrund.**
+> Wer kein Terminal nutzen möchte, kann diesen Teil überspringen und direkt mit [Teil 3](#teil-3) weitermachen — der Lab-Abschluss funktioniert auch ohne ihn.
 
 **Lernziel:** Bob kann Code erklären, Bugs finden/fixen und fehlende Logik ergänzen — ohne dass ihr Python kennen müsst.
+
+---
+
+### Schritt 2.0 — Python einrichten
+
+Bevor das Script ausgeführt werden kann, muss Python einmalig eingerichtet werden.
+
+**Python installieren (falls noch nicht vorhanden)**
+
+Prüfe im Terminal:
+***python --version***
+oder
+***python3 --version***
+
+Lade Python 3.10 oder neuer von [python.org/downloads](https://www.python.org/downloads/) herunter und installiere es.
+
+> ⚠️ **Windows:** Beim Installieren unbedingt **„Add Python to PATH"** aktivieren (Checkbox auf dem ersten Installer-Bildschirm). Ohne diese Option findet Windows den `python`-Befehl nicht.
+
+**Abhängigkeiten installieren**
+
+Öffne ein Terminal (macOS: Terminal-App, Windows: Eingabeaufforderung) und führe im Projektordner aus:
+
+```bash
+# Virtuelle Umgebung erstellen und aktivieren
+python3 -m venv .venv
+source .venv/bin/activate      # Windows: .venv\Scripts\activate
+
+# Abhängigkeiten installieren
+pip install -r requirements.txt
+```
+
+💡 Ihr müsst das nur einmal machen. Danach reicht es, die virtuelle Umgebung zu aktivieren.
 
 ---
 
@@ -148,14 +184,16 @@ docs/
 
 ### Schritt 2.4 — Script ausführen & Report lesen
 
-Führe das Script im Terminal aus (Bob nennt dir den genauen Befehl):
+Aktiviere zuerst die virtuelle Umgebung (falls noch nicht aktiv) und führe dann das Script aus:
 
 ```bash
-# Virtuelle Umgebung aktivieren (falls noch nicht aktiv)
+# Virtuelle Umgebung aktivieren
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
 
 python scripts/process_budget.py
 ```
+
+> ⚠️ **Windows-Hinweis:** Falls der Befehl `python` nicht gefunden wird, versuche stattdessen `py scripts/process_budget.py`. Sollte das auch nicht funktionieren, war beim Installieren „Add Python to PATH" nicht aktiviert — Python muss in diesem Fall neu installiert werden (siehe Schritt 2.0).
 
 > **Prompt 7:**
 > ```
